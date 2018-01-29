@@ -46,5 +46,24 @@ https://github.com/USERNAME/REPOSITORY.git
 git@github.com:USERNAME/REPOSITORY.git
 ```
 
+# Change Git Remote Name
+
+These examples assume you're cloning using HTTPS, which is recommended.
+
+```
+$ git remote -v
+# View existing remotes
+origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+origin  https://github.com/OWNER/REPOSITORY.git (push)
+
+$ git remote rename origin destination
+# Change remote name from 'origin' to 'destination'
+
+$ git remote -v
+# Verify remote's new name
+destination  https://github.com/OWNER/REPOSITORY.git (fetch)
+destination  https://github.com/OWNER/REPOSITORY.git (push)
+```
+
 
 
