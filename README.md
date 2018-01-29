@@ -1,2 +1,1 @@
-# tips
-To save cool tips :D
+# To save cool tips :D
