@@ -1,7 +1,7 @@
 # Set Git Name, Email
 
 ### To set
-```
+```sh
 $ git config --global user.name "Kyoz"
 $ git config --global user.email "banminkyoz@gmail.com"
 
@@ -9,7 +9,7 @@ $ git config --global user.email "banminkyoz@gmail.com"
 
 ### To view
 
-```
+```sh
 $ git config --global user.name
 $ git config --global user.email
 > Kyoz
@@ -19,7 +19,7 @@ $ git config --global user.email
 
 # Set Git Aliases
 
-```
+```sh
 $ git config --global alias.co checkout
 $ git config --global alias.br branch
 $ git config --global alias.ci commit
@@ -37,12 +37,12 @@ The  `git remote set-url`  command takes two arguments:
 > A new URL for the remote. For example:
 
 * If you're updating to use HTTPS, your URL might look like:
-```
+```sh
 https://github.com/USERNAME/REPOSITORY.git
 ```
 
 * If you're updating to use SSH, your URL might look like:
-```
+```sh
 git@github.com:USERNAME/REPOSITORY.git
 ```
 
@@ -50,7 +50,7 @@ git@github.com:USERNAME/REPOSITORY.git
 
 These examples assume you're cloning using HTTPS, which is recommended.
 
-```
+```sh
 $ git remote -v
 # View existing remotes
 origin  https://github.com/OWNER/REPOSITORY.git (fetch)
