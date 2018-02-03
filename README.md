@@ -3,6 +3,7 @@
 ## :white_check_mark: GIT
 
 #### [Basic Git Config](./tips/git/basic.md)
+#### [Better Git Log](./tips/git/better-log.md)
 #### [Authorization Git with SSH Keys](./tips/git/auth-with-ssh.md)
 #### [Use Single Page Application in Gitlab/Github Pages](./tips/git/spa-in-gitlab-page.md)
 
