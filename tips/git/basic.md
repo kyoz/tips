@@ -28,6 +28,12 @@ $ git config --global alias.cf config
 ...
 ```
 
+# Set Default Config Editor
+
+```sh
+git config --global core.editor "vim"
+```
+
 # Change Git Remote
 
 The  `git remote set-url`  command changes an existing remote repository URL.
@@ -67,5 +73,16 @@ destination  https://github.com/OWNER/REPOSITORY.git (fetch)
 destination  https://github.com/OWNER/REPOSITORY.git (push)
 ```
 
+# Add more to last commit
+
+```
+git commit --amend
+```
+
+If you dont wanna change message, do use:
+
+```
+git commit --amend --no-edit
+```
 
 
