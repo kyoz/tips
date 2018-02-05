@@ -10,7 +10,7 @@
 
 ## :white_check_mark: NPM
 
-#### [Prevent Permissions Errors](./tips/ubuntu/prevent-permissions-errors.md)
+#### [Prevent Permissions Errors](./tips/npm/prevent-permissions-errors.md)
 
 ## :white_check_mark: UBUNTU
 
