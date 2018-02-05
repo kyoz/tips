@@ -8,6 +8,10 @@
 #### [Authorization Git with SSH Keys](./tips/git/auth-with-ssh.md)
 #### [Use Single Page Application in Gitlab/Github Pages](./tips/git/spa-in-gitlab-page.md)
 
+## :white_check_mark: NPM
+
+#### [Prevent Permissions Errors](prevent-permissions-errors.md)
+
 ## :white_check_mark: UBUNTU
 
 #### [Disable Laptop Keyboard](./tips/ubuntu/disable-laptop-keyboard.md)
