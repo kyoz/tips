@@ -1,6 +1,6 @@
 # How to Prevent Permissions Errors
 
-&&Notes**: Not apply with window
+:boom: **Notes**: Not apply with window
 
 To minimize the chance of permissions errors, you can configure npm to use a different directory. In this example, it will be a hidden directory on your home folder.
 
