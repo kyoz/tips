@@ -15,6 +15,7 @@
 ## :white_check_mark: UBUNTU
 
 #### [Disable Laptop Keyboard](./tips/ubuntu/disable-laptop-keyboard.md)
+#### [Natural Scroll](./tips/ubuntu/natural-scroll.md)
 
 ## :white_check_mark: MARKDOWN
 
