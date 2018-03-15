@@ -1,10 +1,10 @@
-Terminal:
+**Terminal:**
 
 ```bash
 sudo gedit /usr/share/X11/xorg.conf.d/10-evdev.conf
 ```
 
-Then add `Option "ButtonMapping" "1 2 3 5 4 6 7 8"` to `InputClass` like below
+**Then:** add `Option "ButtonMapping" "1 2 3 5 4 6 7 8"` to `InputClass` like below:
 
 ```
 Section "InputClass"
@@ -16,4 +16,4 @@ Section "InputClass"
 EndSection
 ```
 
-Save and restart to take effect.
+**Save and restart to take effect.**
