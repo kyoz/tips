@@ -12,6 +12,10 @@
 
 #### [Prevent Permissions Errors](./tips/npm/prevent-permissions-errors.md)
 
+## :white_check_mark: OSX 
+
+#### [Enable key repeating ( Hold a letter to repeat typing it)](./tips/osx/enable-key-repeating.md)
+
 ## :white_check_mark: UBUNTU
 
 #### [Disable Laptop Keyboard](./tips/ubuntu/disable-laptop-keyboard.md)
