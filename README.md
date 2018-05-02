@@ -3,6 +3,7 @@
 ## :white_check_mark: GIT
 
 #### [Git Config](./tips/git/config.md)
+#### [Git Branching](./tips/git/branch.md)
 #### [Git Useful Tips](./tips/git/useful.md)
 #### [Better Git Log](./tips/git/better-log.md)
 #### [Authorization Git with SSH Keys](./tips/git/auth-with-ssh.md)
