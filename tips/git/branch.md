@@ -19,13 +19,13 @@ git checkout branchName
 ```bash
 git branch -d branchName
 
-#ex: git branch -d develop
+#ex: git branch -D develop
 ```
 
 # Delete branch (Remote)
 
 ```bash
-git push origin -D branchName
+git push origin -d branchName
 
 #ex: git push origin -D develop
 ```
