@@ -1,6 +1,6 @@
-# :star: COOL TIP
+# COOL TIP
 
-## :white_check_mark: GIT
+## GIT
 
 #### [Git Config](./tips/git/config.md)
 #### [Git Branching](./tips/git/branch.md)
@@ -9,24 +9,24 @@
 #### [Authorization Git with SSH Keys](./tips/git/auth-with-ssh.md)
 #### [Use Single Page Application in Gitlab/Github Pages](./tips/git/spa-in-gitlab-page.md)
 
-## :white_check_mark: NPM
+## NPM
 
 #### [Prevent Permissions Errors](./tips/npm/prevent-permissions-errors.md)
 
-## :white_check_mark: OSX 
+## OSX 
 
 #### [Enable key repeating ( Hold a letter to repeat typing it)](./tips/osx/enable-key-repeating.md)
 
-## :white_check_mark: UBUNTU
+## UBUNTU
 
 #### [Disable Laptop Keyboard](./tips/ubuntu/disable-laptop-keyboard.md)
 #### [Natural Scroll](./tips/ubuntu/natural-scroll.md)
 
-## :white_check_mark: MARKDOWN
+## MARKDOWN
 
 #### [Markdown Emojis](./tips/markdown/markdown-emojis.md)
 
-## :white_check_mark: HOSTING
+## HOSTING
 
 #### [000webhost: Custom Error Pages](./tips/hosting/000webhost-custom-error-pages.md)
 #### [000webhost: Remove banner ](./tips/hosting/000webhost-remove-banner.md)
